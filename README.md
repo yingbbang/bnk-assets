@@ -10,13 +10,13 @@
 </a>
 
 ### 002.mp4
-<a href="https://yingbbang.github.io/bnk-assets/002.mp4">
-  <img src="https://github.com/yingbbang/bnk-assets/blob/main/002.gif" alt="001" width="480">
+<a href="https://yingbbang.github.io/bnk-assets/003.mp4">
+  <img src="https://github.com/yingbbang/bnk-assets/blob/main/003.gif" alt="001" width="480">
 </a>
 
 ### 003.mp4
-<a href="https://yingbbang.github.io/bnk-assets/003.mp4">
-  <img src="https://github.com/yingbbang/bnk-assets/blob/main/003.gif" alt="001" width="480">
+<a href="https://yingbbang.github.io/bnk-assets/002.mp4">
+  <img src="https://github.com/yingbbang/bnk-assets/blob/main/002.gif" alt="001" width="480">
 </a>
 
 ### 004.mp4
