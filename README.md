@@ -1,36 +1,25 @@
-# \# Assets Preview
+# Assets Preview
 
-# 
+각 GIF 미리보기 이미지를 클릭하면 영상(mp4)로 이동합니다.
 
-# 각 영상은 동일한 이름의 gif 미리보기 이미지를 클릭하면 재생됩니다.
+---
 
-# 
+### 001.mp4
+<a href="https://yingbbang.github.io/bnk-assets/001.mp4">
+  <img src="https://github.com/yingbbang/bnk-assets/blob/main/001.gif" alt="001" width="480">
+</a>
 
-# ---
+### 002.mp4
+<a href="https://yingbbang.github.io/bnk-assets/002.mp4">
+  <img src="https://github.com/yingbbang/bnk-assets/blob/main/002.gif" alt="001" width="480">
+</a>
 
-# 
+### 003.mp4
+<a href="https://yingbbang.github.io/bnk-assets/003.mp4">
+  <img src="https://github.com/yingbbang/bnk-assets/blob/main/003.gif" alt="001" width="480">
+</a>
 
-# \### 001.mp4
-
-# \[!\[001](httpsyingbbang.github.iobnk-assets001.gif)](httpsyingbbang.github.iobnk-assets001.mp4)
-
-# 
-
-# \### 002.mp4
-
-# \[!\[002](httpsyingbbang.github.iobnk-assets002.gif)](httpsyingbbang.github.iobnk-assets002.mp4)
-
-# 
-
-# \### 003.mp4
-
-# \[!\[003](httpsyingbbang.github.iobnk-assets003.gif)](httpsyingbbang.github.iobnk-assets003.mp4)
-
-# 
-
-# \### 004.mp4
-
-# \[!\[004](httpsyingbbang.github.iobnk-assets004.gif)](httpsyingbbang.github.iobnk-assets004.mp4)
-
-# 
-
+### 004.mp4
+<a href="https://yingbbang.github.io/bnk-assets/004.mp4">
+  <img src="https://github.com/yingbbang/bnk-assets/blob/main/004.gif" alt="001" width="480">
+</a>
