@@ -35,11 +35,11 @@
 </a>
 
 ### 007.mp4
-<a href="https://yingbbang.github.io/bnk-assets/006.mp4">
+<a href="https://yingbbang.github.io/bnk-assets/007.mp4">
   <img src="https://github.com/yingbbang/bnk-assets/blob/main/007.gif" alt="001" width="480">
 </a>
 
 ### 008.mp4
 <a href="https://yingbbang.github.io/bnk-assets/008.mp4">
-  <img src="https://github.com/yingbbang/bnk-assets/blob/main/007.gif" alt="001" width="480">
+  <img src="https://github.com/yingbbang/bnk-assets/blob/main/008.gif" alt="001" width="480">
 </a>
